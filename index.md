@@ -5,5 +5,13 @@
 # Dhruval Shah, BASc EIT
 
 ## Education
+### BASc. Electrical Engineering 2015-2021
+## Relevant Coursework:
+<ul>
+  <li>Data Structures and Algorithms (CPSC259)</li>
+  <li>Microelectronic Circuits (ELEC301)</li>
+  <li>Electrical Engineering Design Studio I and II (ELEC291 and ELEC391)</li>
+  <li>Systems and Control (ELEC341/441)</li>
+
 
 
