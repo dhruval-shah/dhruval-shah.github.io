@@ -4,7 +4,7 @@
 
 # Dhruval Shah, BASc EIT
 
-## Education
+## EDUCATION
 ###   BASc. Electrical Engineering 2015-2021
 ##  Relevant Coursework:
   <ul>
