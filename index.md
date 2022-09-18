@@ -11,6 +11,8 @@ As a part of a design course, we were required to create an autonomous robot (wh
   </font>
 </p>
 
+<img src = "C:\Users\User\Desktop\Electrical Engineering Theme.png">
+
 ## Education
 ###   BASc. Electrical Engineering 2015-2021
 ## Relevant Coursework:
