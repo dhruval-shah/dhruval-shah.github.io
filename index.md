@@ -14,6 +14,7 @@ As a part of a design course, we were required to create an autonomous robot (wh
 </p>
 
 <img src = "Final Robot.png">
+<img src = "Final Robot Top View">
 
 ## Education
 ###   BASc. Electrical Engineering 2015-2021
