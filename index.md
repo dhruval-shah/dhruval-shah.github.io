@@ -23,8 +23,7 @@ As a part of a design course, we were required to create an autonomous robot (wh
       <img src = "Final Robot.png" width="100" height="100" style="float:left; width=25%; padding = 10x;">
      </div>
     <div class = "column">
-      <img src = "Final Robot Top View.png" width="100" height="100" style="float:left; width=25%; padding = 10x;">
-      <p style = "clear:both;">
+      <img src = "Final Robot Top View.png" width="100" height="100" style="float:left; width=25%; padding = 10x; clear = both">
      </div>
   </div>
 
