@@ -5,6 +5,13 @@
 
 <head>
   <title>Dhruval Shah, BASc EIT</title>
+  <style>
+    .column {
+    float = left;
+    width = 30%;
+    padding = 5px;
+    }
+  </style>
 </head>
 
 <body>
@@ -19,7 +26,7 @@ As a part of a design course, we were required to create an autonomous robot (wh
 
   <div class = "row">
      <div class = "column">
-      <img src = "Final Robot.png" width="100" height="100">
+      <img src = "Final Robot.png" width="100" height="100" style>
      </div>
     <div class = "column">
       <img src = "Final Robot Top View.png" width="100" height="100">
