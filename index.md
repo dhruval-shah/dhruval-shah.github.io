@@ -16,7 +16,7 @@
 </head>
 
 <body>
-  <h1>Projects</h1>
+  <h1>Project</h1>
  
   <h2>The SunFinder (Line Following Robot)</h2>
 <p>
