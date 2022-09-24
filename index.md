@@ -9,12 +9,12 @@
 ### The SunFinder (Line Following Robot)
 <p>
   <font size = "2">
-As a part of a design course, we were required to create an autonomous robot (which we named 'The SunFinder') under time and budget constraints. The objective of the robot was to navigate a pre-determined grid, marked by black tape, and dispose waste materials inside previously selected bins that were located at the edges of the grid. My primary focus was on designing and implementing the navigation and bin detection software 
+As a part of a design course, we were required to create an autonomous robot (which we named 'The SunFinder') under time and budget constraints. The objective of the robot was to navigate a pre-determined grid, marked by black tape, and dispose waste materials inside previously selected bins that were located at the edges of the grid. My primary focus was on designing and implementing the navigation and bin detection software. 
   </font>
 </p>
 
-<img src = "Final Robot.png">
-<img src = "Final Robot Top View.png">
+<img src = "Final Robot.png" width = "100" height = "100">
+<img src = "Final Robot Top View.png" width = "100" height= "100">
 
 ## Education
 ###   BASc. Electrical Engineering 2015-2021
