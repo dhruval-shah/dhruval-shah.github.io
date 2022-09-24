@@ -13,15 +13,16 @@ As a part of a design course, we were required to create an autonomous robot (wh
   </font>
 </p>
 
-<body>
-    <div class = "column">
-      <img src = "Final Robot.png" style="float:left">
-    </div>  
-    <div class = "column">
-      <img src = "Final Robot Top View.png">
-    </div>
-</body>
-
+<div class = "row">
+  <div class = "column">
+    <img src = "Final Robot.png" style="float:left">
+  </div>
+  <div class = "column">
+    <img src = "Final Robot Top View.png">
+  </div>
+</div>
+  
+  
 ## Education
 ###   BASc. Electrical Engineering 2015-2021
 ## Relevant Coursework:
