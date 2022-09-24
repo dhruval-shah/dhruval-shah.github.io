@@ -19,7 +19,7 @@ As a part of a design course, we were required to create an autonomous robot (wh
 
   <div class = "row">
      <div class = "column">
-      <img src = "Final Robot.png" style="float:left">
+      <img src = "Final Robot.png">
      </div>
     <div class = "column">
       <img src = "Final Robot Top View.png">
