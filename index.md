@@ -13,8 +13,8 @@ As a part of a design course, we were required to create an autonomous robot (wh
   </font>
 </p>
 
-<img src = "Final Robot.png" width = "500" height = "400">
-<img src = "Final Robot Top View.png" width = "500" height= "400">
+<img src = "Final Robot.png" width = "500" height = "350">
+<img src = "Final Robot Top View.png" width = "500" height= "350">
 
 ## Education
 ###   BASc. Electrical Engineering 2015-2021
