@@ -37,6 +37,7 @@ As a part of a design course, we were required to create an autonomous robot (wh
   <li>Electrical Engineering Design Studio I and II (ELEC291 and ELEC391)</li>
   <li>Systems and Control (ELEC341/441)</li>
 </ul>
+  </body>
 </html>
 
 
