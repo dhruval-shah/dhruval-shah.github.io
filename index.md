@@ -32,9 +32,6 @@ As a part of a design course, we were required to create an autonomous robot (wh
   </div>
 
   
-  
-  <h1>Education</h1>
-  <h2>BASc. Electrical Engineering 2015-2021</h2>
   <h1>Relevant Coursework:</h1>
 <ul>
   <li>Data Structures and Algorithms (CPSC259)</li>
