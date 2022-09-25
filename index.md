@@ -38,7 +38,7 @@ As a part of a design course, we were required to create an autonomous robot (wh
   </p>
   
   
-  <h1>Relevant Coursework:</h1>
+  <h1><u>Relevant Coursework:</u></h1>
 <ul>
   <li>Data Structures and Algorithms (CPSC259)</li>
   <li>Microelectronic Circuits (ELEC301)</li>
