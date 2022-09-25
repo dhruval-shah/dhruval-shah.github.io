@@ -20,13 +20,13 @@ As a part of a design course, we were required to create an autonomous robot (wh
 
   <div class = "row">
      <div class = "column">
-      <img src = "Final Robot.png" width = 350 height = 250 style="float:left; width=25%; padding = 10x;">
+      <img src = "Final Robot.png" width = 250 height = 179 style="float:left; width=25%; padding = 10x;">
      </div>
     <div class = "column">
-      <img src = "Final Robot Top View.png" width = 350 height = 250 style="float:left; width=25%; padding = 10x;">
+      <img src = "Final Robot Top View.png" width = 250 height = 179 style="float:left; width=25%; padding = 10x;">
     </div>
     <div class = "column">
-      <img src = "SunFinder_Robot.PNG" width = 400 height = 250 style="float:left; width=25%; padding = 10x;">
+      <img src = "SunFinder_Robot.PNG" width = 250 height = 179 style="float:left; width=25%; padding = 10x;">
       <p style = "clear:both;"></p>
     </div>
   </div>
