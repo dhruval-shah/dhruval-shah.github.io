@@ -39,8 +39,8 @@ As a part of a design course, we were required to create an autonomous robot (wh
   
  <figure>
    <img src = "291.png" width = 250 height = 179 style = "float:left; width=25%; padding = 10x;">
-   <figcaption>The grid upon which the robot navigates</figcaption>
    <p style = "clear:both;"></p>
+   <figcaption>The grid upon which the robot navigates</figcaption>
  </figure>
   
   
