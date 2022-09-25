@@ -26,7 +26,7 @@ As a part of a design course, we were required to create an autonomous robot (wh
       <img src = "Final Robot Top View.png" width = 250 height = 179 style="float:left; width=25%; padding = 10x;">
     </div>
     <div class = "column">
-      <img src = "SunFinder_Robot.PNG" width = 250 height = 179 style="float:left; width=25%; padding = 10x;">
+      <img src = "SunFinder_Robot.PNG" width = 300 height = 179 style="float:left; width=25%; padding = 10x;">
       <p style = "clear:both;"></p>
     </div>
   </div>
