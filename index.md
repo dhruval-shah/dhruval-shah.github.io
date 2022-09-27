@@ -15,7 +15,7 @@
 
  <p>
   <font size = "2">
-As a part of a design course, we were required to create an autonomous robot (which we named 'The SunFinder') under time and budget constraints. The objective of the robot was to navigate a pre-determined grid, marked by black tape, and dispose waste materials inside previously selected bins that were located at the edges of the grid. My primary focus was on designing and implementing the navigation and bin detection software..
+As a part of a design course, we were required to create an autonomous robot (which we named 'The SunFinder') under time and budget constraints. The objective of the robot was to navigate a pre-determined grid, marked by black tape, and dispose waste materials inside previously selected bins that were located at the edges of the grid. My primary focus was on designing and implementing the navigation and bin detection software.
   </font>
 </p>
 
