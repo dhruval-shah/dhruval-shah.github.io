@@ -50,7 +50,8 @@ As a part of a design course, we were required to create an autonomous robot (wh
   </div>
   <div class = "column">
 <figure><img src = "Ultrasonic_4.png" width = 200 height = 179 style = "float:left; width = 25%; padding = 10x;"></figure>  
-    <p style = "clear:both;"></p>  
+    <p style = "clear:both;"></p>
+  </div>
  </div>
   
   <h1><u>Relevant Coursework:</u></h1>
