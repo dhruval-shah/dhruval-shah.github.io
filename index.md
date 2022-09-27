@@ -52,12 +52,10 @@ As a part of a design course, we were required to create an autonomous robot (wh
  
 <p style = "clear:both;"></p>
  
-<center>
   <p><font size = "2"><br>The following is the final demonstration of the completed project:</font></p>
-  <video width = "320" height = "240" controls>
+  <center><video width = "320" height = "240" controls>
     <source src = "291 Final Demo.mp4" type = "video/mp4">
-  </video>
-  </center>  
+    </video></center>
   
   <h1><u>Relevant Coursework:</u></h1>
 <ul>
