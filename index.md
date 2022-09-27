@@ -15,7 +15,7 @@
 
  <p>
   <font size = "2">
-As a part of a design course, we were required to create an autonomous robot (which we named 'The SunFinder') under time and budget constraints. The objective of the robot was to navigate a pre-determined grid, marked by black tape, and dispose waste materials inside previously selected bins that were located at the edges of the grid. My primary focus was on designing and implementing the navigation and bin detection software.
+As a part of a design course, we were required to create an autonomous robot (which we named 'The SunFinder') under time and budget constraints. The objective of the robot was to navigate a pre-determined grid, marked by black tape, and dispose waste materials inside previously selected bins that were located at the edges of the grid. My primary focus was on designing and implementing the navigation and bin detection software...
   </font>
 </p>
 
@@ -36,15 +36,21 @@ As a part of a design course, we were required to create an autonomous robot (wh
  
   <p>
   <font size = "2">
-  The software for this robot was implemented using an Arduino Uno Microcontroller and a variety of sensors; for the purpose of grid navigation and bin detection, we used SunFounder IIC IR Line Following Module and an HC-SR04 Ultrasonic Sensor
+  The software for this robot was implemented using an Arduino Uno Microcontroller and a variety of sensors; for the purpose of grid navigation and bin detection, we used SunFounder IIC IR Line Following Module and an HC-SR04 Ultrasonic Sensor (shown below from left to right)
    </font>
   </p>
   
-<figure>
-  <img src = "GridNavigation.png" width = 200 height = 179 style = "float:left; width=25%; padding = 10x;">
-  <p><figcaption><font size = "1">This is the grid upon which the robot navigates</font></figcaption></p>
-</figure>
+
+  <div class = "row">
+     <div class = "column">
+      <img src = "Line Follwing Module.png" width = 250 height = 179 style="float:center; width=25%; padding = 10x;">
+     </div>
+    <div class = "column">
+      <img src = "Ultrasonic_4.png" width = 250 height = 179 style="float:center; width=25%; padding = 10x;">
+    </div>
+  </div>  
   
+
   
 <p style = "clear:both;"></p>
   
