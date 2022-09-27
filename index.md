@@ -68,10 +68,10 @@ As a part of a design course, we were required to create an autonomous robot (wh
   
   <h1><u>Relevant Coursework:</u></h1>
 <ul>
-  <li>Data Structures and Algorithms (CPSC259)</li>
+  <font size = "2"><li>Data Structures and Algorithms (CPSC259)</li>
   <li>Microelectronic Circuits (ELEC301)</li>
   <li>Electrical Engineering Design Studio I and II (ELEC291 and ELEC391)</li>
-  <li>Systems and Control (ELEC341/441)</li>
+    <li>Systems and Control (ELEC341/441)</li></font>
 </ul>
   </body>
 </html>
