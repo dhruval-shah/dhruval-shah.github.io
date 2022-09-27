@@ -36,24 +36,27 @@ As a part of a design course, we were required to create an autonomous robot (wh
  
   <p>
   <font size = "2">
-  The software for this robot was implemented using an Arduino Uno Microcontroller and a variety of sensors; for the purpose of grid navigation and bin detection, we used SunFounder IIC IR Line Following Module and an HC-SR04 Ultrasonic Sensor (shown below from left to right
+  The software for this robot was implemented using an Arduino Uno Microcontroller and a variety of sensors; for the purpose of grid navigation and bin detection, I used a SunFounder IIC IR Line Following Module and an HC-SR04 Ultrasonic Sensor (shown below from left to right)
    </font>
   </p>
   
 
   <div class = "row">
      <div class = "column">
-      <img src = "Line Following Module.png" width = 350 height = 145 style="float:left; width=25%; padding = 10x;">
+      <img src = "Line Following Module.png" width = 350 height = 135 style="float:left; width=25%; padding = 10x;">
      </div>
     <div class = "column">
-      <img src = "Ultrasonic_4.png" width = 350 height = 145 style="float:left; width=25%; padding = 10x;">
+      <img src = "Ultrasonic_4.png" width = 350 height = 135 style="float:left; width=25%; padding = 10x;">
     </div>
   </div>  
  
-  
 <p style = "clear:both;"></p>
   
-
+  <p>The following is the final demonstration of the completed project:</p>
+  <video width = "320" height = "240" controls>
+    <source src = "291 Final Demo.mp4" type = "video/mp4">
+  </video>
+  
   
   <h1><u>Relevant Coursework:</u></h1>
 <ul>
