@@ -43,10 +43,10 @@ As a part of a design course, we were required to create an autonomous robot (wh
 
   <div class = "row">
      <div class = "column">
-      <img src = "Line Following Module.png" width = 350 height = 179 style="float:left; width=25%; padding = 10x;">
+      <img src = "Line Following Module.png" width = 350 height = 145 style="float:left; width=25%; padding = 10x;">
      </div>
     <div class = "column">
-      <img src = "Ultrasonic_4.png" width = 350 height = 179 style="float:left; width=25%; padding = 10x;">
+      <img src = "Ultrasonic_4.png" width = 350 height = 145 style="float:left; width=25%; padding = 10x;">
     </div>
   </div>  
  
