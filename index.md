@@ -48,6 +48,9 @@ As a part of a design course, we were required to create an autonomous robot (wh
   <figcaption><font size = "1">This is the grid upon which the robot navigates</font></figcaption>
 </figure>
   </div>
+  <div class = "column">
+<figure><img src = "Ultrasonic_4.png" width = 200 height = 179 style = "float:left; width = 25%; padding = 10x;"></figure>  
+    <p style = "clear:both;"></p>  
  </div>
   
   <h1><u>Relevant Coursework:</u></h1>
