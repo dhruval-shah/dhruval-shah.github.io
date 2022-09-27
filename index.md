@@ -36,7 +36,7 @@ As a part of a design course, we were required to create an autonomous robot (wh
  
   <p>
   <font size = "2">
-  The software for this robot was implemented using an Arduino Uno Microcontroller and a variety of sensors; for the purpose of grid navigation and bin detection, we used SunFounder IIC IR Line Following Module and an HC-SR04 Ultrasonic Sensor (shown below from left to right)
+  The software for this robot was implemented using an Arduino Uno Microcontroller and a variety of sensors; for the purpose of grid navigation and bin detection, we used SunFounder IIC IR Line Following Module and an HC-SR04 Ultrasonic Sensor (shown below from left to right
    </font>
   </p>
   
