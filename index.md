@@ -45,9 +45,7 @@ As a part of a design course, we were required to create an autonomous robot (wh
    <div class = "column">
      <figure>
      <img src = "GridNavigation.png" width = 200 height = 179 style = "float:left; width=25%; padding = 10x;">
-     <font size = "1"> 
-      <figcaption>This is the grid upon which the robot navigates</figcaption>
-     </font>
+     <figcaption>This is the grid upon which the robot navigates</figcaption>
      <p style = "clear:both;"></p>
      </figure>
    </div>
