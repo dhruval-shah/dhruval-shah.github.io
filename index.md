@@ -46,6 +46,8 @@ As a part of a design course, we were required to create an autonomous robot (wh
     <figcaption><font size = "1">This is the grid upon which the robot navigates</font></figcaption>
 </figure>
   
+  <p style = "clear:both;"></p>
+  
 
   
   <h1><u>Relevant Coursework:</u></h1>
