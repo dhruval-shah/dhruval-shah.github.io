@@ -5,7 +5,7 @@
 </picture>
 
 <head>
-  <title>Dhruval Shah, BASc EIT</title>
+  <title>Dhruval Shah, BAc EIT</title>
 </head>
 
 <body>
