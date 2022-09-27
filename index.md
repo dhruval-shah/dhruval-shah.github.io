@@ -42,7 +42,6 @@ As a part of a design course, we were required to create an autonomous robot (wh
     <img src = "GridNavigation.png" width = 200 height = 179 style = "float:left; width=25%; padding = 10x;">
     <figcaption>The grid upon which the robot navigates</figcaption>
     <img src = "Ultrasonic_4.png" width = 200 height = 179 style = "float:left; width=25%; padding = 10x;">
-    <figcaption>Ultrasonic Sensor functionality</figcaption>
     <p style = "clear:both;"></p>
    </font>
  </figure>
