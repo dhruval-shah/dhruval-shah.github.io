@@ -30,8 +30,10 @@ As a part of a design course, we were required to create an autonomous robot (wh
       <p style = "clear:both;"></p>
     </div>
   </div>
+  
   <h3>Software Implementation</h3>
- <p>
+ 
+  <p>
   <font size = "2">
   The software for this robot was implemented using an Arduino Uno Microcontroller and a variety of sensors; for the purpose of grid navigation and bin detection, we used SunFounder IIC IR Line Following Module and an HC-SR04 Ultrasonic Sensor
    </font>
@@ -40,7 +42,6 @@ As a part of a design course, we were required to create an autonomous robot (wh
  <figure>
     <img src = "GridNavigation.png" width = 200 height = 179 style = "float:left; width=25%; padding = 10x;">
     <p style = "clear:both;"></p>
-   </font>
  </figure>
   
   
