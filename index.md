@@ -38,10 +38,9 @@ As a part of a design course, we were required to create an autonomous robot (wh
   </p>
   
  <figure>
-   <font size = "1">
     <img src = "GridNavigation.png" width = 200 height = 179 style = "float:left; width=25%; padding = 10x;">
+   <font size = "1">
     <figcaption>The grid upon which the robot navigates</figcaption>
-    <img src = "Ultrasonic_4.png" width = 200 height = 179 style = "float:left; width=25%; padding = 10x;">
     <p style = "clear:both;"></p>
    </font>
  </figure>
