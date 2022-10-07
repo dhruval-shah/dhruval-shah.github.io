@@ -18,9 +18,6 @@
 <source src = "Memory Game Recording.mp4" type = "video/mp4">
 </video></center>
 
-<p><font size = "2">You can also check out the game in the link below:
-  <a href = "Memory_Game_Extended.exe"</a></font></p>
-
   
   <h2>The SunFinder (Line Following Robot)</h2>
   <h3>Overview</h3>
