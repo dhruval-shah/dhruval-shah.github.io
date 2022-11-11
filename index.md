@@ -12,7 +12,7 @@
   <h1><u>Projects</u></h1>
   <h2>Tile-Matching Game</h2>
   <h3>Overview</h3> 
-<p><font size = "2">This is a popular tile-matching game, implemented using a Python GUI toolkit called 'Tkinter'. The objective of the game is to have the player match all the tiles by relying on their memory. There are 6 level progressions in this game, although the coding style can allow for a rapid implementation of further levels. The player is timed and scored on how quickly they can solve the puzzle. The following video gives a demonstration of the game. The link to the source code can be found <a href = "https://github.com/dhruval-shah/Tile-Matching-Game/blob/master/Memory_Game_Extended.py">here.</a> The full version of the game can be downloaded <a href = "https://github.com/dhruval-shah/dhruval-shah.github.io/blob/main/Memory_Game_Extended.zip">here.</a></font></p>
+<p><font size = "2">This is a popular tile-matching game, implemented using a Python GUI toolkit called 'TKinter'. The objective of the game is to have the player match all the tiles by relying on their memory. There are 6 level progressions in this game, although the coding style can allow for a rapid implementation of further levels. The player is timed and scored on how quickly they can solve the puzzle. The following video gives a demonstration of the game. The link to the source code can be found <a href = "https://github.com/dhruval-shah/Tile-Matching-Game/blob/master/Memory_Game_Extended.py">here.</a> The full version of the game can be downloaded <a href = "https://github.com/dhruval-shah/dhruval-shah.github.io/blob/main/Memory_Game_Extended.zip">here.</a></font></p>
   
 <center><video width = "320" height = "240" controls>
 <source src = "Memory Game Recording.mp4" type = "video/mp4">
@@ -20,9 +20,10 @@
 
   <h2>Radio Receiver Project</h2>
   <p><font size = "2">In a team of 4 engineers, we constructed a low power, AM Radio Receiver that is capable of tuning into several AM Broadcast Band (BCB) stations in Vancouver, BC. We made several altercations to the basic circuit that allowed us to make improvements in the following categories: selectivity, sensitivity, and distortion. The basic circuit is as follows:</font></p>
-    <center><img src = "Basic Radio Circuit.png" width = 250 height = 179 style="float:left' width=25%; padding = 10x;"></center>
+    <center><img src = "Basic Radio Circuit.png" width = 300 height = 179 style="float:left' width=25%; padding = 10x;"></center>
   <p><font size = "2">Our final circuit is as follows:</font></p>
-    <center><img src = "Final Circuit.png" width = 250 height = 179 style="float:left' width=25%; padding = 10x;"></center>
+    <center><img src = "Final Circuit.png" width = 300 height = 179 style="float:left' width=25%; padding = 10x;"></center>
+  <p><font size = "2">The link to the final design document can be found <a href = "https://github.com/dhruval-shah/dhruval-shah.github.io/blob/main/Project%201%20-%20Radio%20Project%20Report.docx">here.</a></font></p>
   
   <h2>The SunFinder (Line Following Robot)</h2>
   <h3>Overview</h3>
