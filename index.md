@@ -18,6 +18,11 @@
 <source src = "Memory Game Recording.mp4" type = "video/mp4">
 </video></center>
 
+  <h2>Radio Receiver Project</h2>
+  <p><font size = "2">In a team of 4 engineers, we constructed a low power, AM Radio Receiver that is capable of tuning into several AM Broadcast Band (BCB) stations in Vancouver, BC. We made several altercations to the basic circuit that allowed us to make improvements in the following categories: selectivity, sensitivity, and distortion. The basic circuit is as follows:</p>
+    <center><img src = "Basic Circuit.png" width = 250 height = 179 style="float:left' width=25%; padding = 10x;"></center>
+  <p><font size = "2">Our final circuit is as follows:</p>
+    <center><img src = "Final Circuit.png" width = 250 height = 179 style="float:left' width=25%; padding = 10x;"></center>
   
   <h2>The SunFinder (Line Following Robot)</h2>
   <h3>Overview</h3>
