@@ -9,6 +9,10 @@
 </head>
 
 <body>
+  <div class="timeline">
+  </div>
+
+  
   <h1><u>University Projects</u></h1>
   <h2>Tile-Matching Game</h2>
   <h3>Overview</h3> 
