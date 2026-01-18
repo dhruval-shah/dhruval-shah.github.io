@@ -10,6 +10,7 @@
 
 <body>
   <h1><u>Projects</u></h1>
+  <h2><u>University Projects</u></h2>
   <h2>Tile-Matching Game</h2>
   <h3>Overview</h3> 
 <p><font size = "2">This is a popular tile-matching game, implemented using a Python GUI toolkit called 'TKinter'. The objective of the game is to have the player match all the tiles by relying on their memory. There are 6 level progressions in this game, although the coding style can allow for a rapid implementation of further levels. The player is timed and scored on how quickly they can solve the puzzle. The following video gives a demonstration of the game. The link to the source code can be found <a href = "https://github.com/dhruval-shah/Tile-Matching-Game/blob/master/Memory_Game_Extended.py">here.</a> The full version of the game can be downloaded <a href = "https://github.com/dhruval-shah/dhruval-shah.github.io/blob/main/Memory_Game_Extended.zip">here.</a></font></p>
