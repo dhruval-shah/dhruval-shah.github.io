@@ -9,6 +9,9 @@
 </head>
 
 <body>
+  <h1><u>Professional Timeline</u></h1>
+  <center><img src = "Professional Timeline.png" width = 300 height = 179 style="float:left' width=25%; padding = 10x;"></center>
+
   <h1><u>University Projects</u></h1>
   <h2>Tile-Matching Game</h2>
   <h3>Overview</h3> 
