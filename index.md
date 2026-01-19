@@ -10,8 +10,8 @@
 
 <body>
   <h1><u>Professional Timeline</u></h1>
-  <center><img src = "Professional Timeline.png" width = 900 height = 500 style="float:left' width=25%; padding = 10x;"></center>
   <p><font size = "2">This outlines my professional career to date</font></p>
+  <center><img src = "Professional Timeline.png" width = 900 height = 550 style="float:left' width=25%; padding = 10x;"></center>
 
   <h1><u>University Projects</u></h1>
   <h2>Tile-Matching Game</h2>
