@@ -17,7 +17,7 @@
   <h2>6-DOF Ship Motion Simulation (MATLAB/Simulink)</h2>
   <p><font size = "2">Background Information: MDA Space is the prime integrator of Electronic Warfare (EW) Systems for the Canadian Surface Combatant (CSC) program.</font></p>
   <p><font size = "2">I built a parameterized 6-DOF kinematic ship motion model in MATLAB/Simulink to generate time-domain motion profiles (roll, pitch, yaw, sway, heave, and surge) for inputs to a Laser Warning Countermeasures (LWCM) system.</font></p>
-  <center><img src = "Ship Motion Matlab.png" width = 250 height = 250 style="float:left' width=25%; padding = 10x;"></center>
+  <center><img src = "Ship Motion Matlab.png" width = 290 height = 250 style="float:left' width=25%; padding = 10x;"></center>
   
   
   <h2>Machine Quality and Safety Testing (V&V)</h2>
