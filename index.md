@@ -9,11 +9,18 @@
 </head>
 
 <body>
-  <h1><u>Professional Timeline</u></h1>
-  <p><font size = "2">This outlines my professional career to date</font></p>
-  <center><img src = "Professional Timeline.png" width = 900 height = 550 style="float:left' width=25%; padding = 10x;"></center>
+  <h1><b>Professional Timeline</b></h1>
+  <p><font size = "2">This outlines my professional career till present time:</font></p>
+  <center><img src = "Professional Timeline.png" width = 850 height = 550 style="float:left' width=25%; padding = 10x;"></center>
 
-  <h1><u>University Projects</u></h1>
+  <h1><b>Industry Projects</b></h1>
+  <h2>Machine Quality and Safety Testing (V&V)</h2>
+  <p><font size = "2">Background Information: Greenlight Innovation specializes in machines primarily used for testing fuel cells, electrolyzers and batteries in the renewable/clean energy sector.</font></p>
+  <p><font size = "2">Executed 4-5 week test sprints per machine to verify functional performance, safety and quality, using system documentation (P&IDs, Electrical Wiring Diagrams) to diagnose issues and keep projects on schedule.</font></p>
+  <center><img src = "Greenlight Innovation Machine.png" width = 850 height = 550 style="float:left' width=25%; padding = 10x;"></center>
+  <center><img src = "Greenlight Innovation Machine 1.png" width = 850 height = 550 style="float:left' width=25%; padding = 10x;"></center>
+
+  <h1><b>University Projects</b></h1>
   <h2>Tile-Matching Game</h2>
   <h3>Overview</h3> 
 <p><font size = "2">This is a popular tile-matching game, implemented using a Python GUI toolkit called 'TKinter'. The objective of the game is to have the player match all the tiles by relying on their memory. There are 6 level progressions in this game, although the coding style can allow for a rapid implementation of further levels. The player is timed and scored on how quickly they can solve the puzzle. The following video gives a demonstration of the game. The link to the source code can be found <a href = "https://github.com/dhruval-shah/Tile-Matching-Game/blob/master/Memory_Game_Extended.py">here.</a> The full version of the game can be downloaded <a href = "https://github.com/dhruval-shah/dhruval-shah.github.io/blob/main/Memory_Game_Extended.zip">here.</a></font></p>
