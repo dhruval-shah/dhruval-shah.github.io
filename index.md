@@ -11,12 +11,16 @@
 <body>
   <h1><b>Professional Timeline</b></h1>
   <p><font size = "2">This outlines my professional career till present time:</font></p>
-  <center><img src = "Professional Timeline.png" width = 850 height = 550 style="float:left' width=25%; padding = 10x;"></center>
+  <center><img src = "Professional Timeline.png" width = 825 height = 550 style="float:left' width=25%; padding = 10x;"></center>
 
   <h1><b>Industry Projects</b></h1>
+  <h2>6-DOF Ship Motion Simulation (MATLAB/Simulink)</h2>
+  <p><font size = "2">Background Information: MDA Space is the prime integrator of Electronic Warfare (EW) Systems for the Canadian Surface Combatant (CSC) program.</font></p>
+  <p><font size = "2">I built a parameterized 6-DOF kinematic ship motion model in MATLAB/Simulink to generate time-domain motion profiles (roll, pitch, yaw, sway, heave, and surge) for inputs to a Laser Warning Countermeasures (LWCM) system.</font></p>
+  
   <h2>Machine Quality and Safety Testing (V&V)</h2>
   <p><font size = "2">Background Information: Greenlight Innovation specializes in machines primarily used for testing fuel cells, electrolyzers and batteries in the renewable/clean energy sector.</font></p>
-  <p><font size = "2">Executed 4-5 week test sprints per machine to verify functional performance, safety and quality, using system documentation (P&IDs, Electrical Wiring Diagrams) to diagnose issues and keep projects on schedule.</font></p>
+  <p><font size = "2">At Greenlight Innovation, I executed 4-5 week test sprints per machine to verify functional performance, safety and quality, using system documentation (P&IDs, Electrical Wiring Diagrams) to diagnose issues and keep projects on schedule.</font></p>
   
   <style> .row{display:flex;} .column{margin-right:20px;} </style>
   
