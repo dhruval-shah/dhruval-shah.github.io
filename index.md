@@ -17,14 +17,17 @@
   <h2>Machine Quality and Safety Testing (V&V)</h2>
   <p><font size = "2">Background Information: Greenlight Innovation specializes in machines primarily used for testing fuel cells, electrolyzers and batteries in the renewable/clean energy sector.</font></p>
   <p><font size = "2">Executed 4-5 week test sprints per machine to verify functional performance, safety and quality, using system documentation (P&IDs, Electrical Wiring Diagrams) to diagnose issues and keep projects on schedule.</font></p>
-    <div class = "row">
+  
+  <style> .row{display:flex;} .column{margin-right:20px;} </style>
+  
+  <div class = "row">
 		 <div class = "column">
-		  <img src = "Greenlight Innovation Machine.png" width = 500 height = 179 style="float:left; width=25%; padding = 10x;">
+		  <img src = "Greenlight Innovation Machine.png" width = 200 height = 300>
 		 </div>
 		  <div class = "column">
-		  <img src = "Greenlight Innovation Machine 1.png" width = 500 height = 179 style="float:left; width=25%; padding = 10x;">
+		  <img src = "Greenlight Innovation Machine 1.png" width = 200 height = 179>
 		 </div>
-	</div>
+  </div>
 
   <h1><b>University Projects</b></h1>
   <h2>Tile-Matching Game</h2>
