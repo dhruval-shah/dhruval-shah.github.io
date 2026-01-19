@@ -17,8 +17,14 @@
   <h2>Machine Quality and Safety Testing (V&V)</h2>
   <p><font size = "2">Background Information: Greenlight Innovation specializes in machines primarily used for testing fuel cells, electrolyzers and batteries in the renewable/clean energy sector.</font></p>
   <p><font size = "2">Executed 4-5 week test sprints per machine to verify functional performance, safety and quality, using system documentation (P&IDs, Electrical Wiring Diagrams) to diagnose issues and keep projects on schedule.</font></p>
-  <center><img src = "Greenlight Innovation Machine.png" width = 850 height = 550 style="float:left' width=25%; padding = 10x;"></center>
-  <center><img src = "Greenlight Innovation Machine 1.png" width = 850 height = 550 style="float:left' width=25%; padding = 10x;"></center>
+    <div class = "row">
+		 <div class = "column">
+		  <img src = "Greenlight Innovation Machine.png" width = 500 height = 179 style="float:left; width=25%; padding = 10x;">
+		 </div>
+		  <div class = "column">
+		  <img src = "Greenlight Innovation Machine 1.png" width = 500 height = 179 style="float:left; width=25%; padding = 10x;">
+		 </div>
+	</div>
 
   <h1><b>University Projects</b></h1>
   <h2>Tile-Matching Game</h2>
@@ -39,11 +45,7 @@
   <h2>The SunFinder (Line Following Robot)</h2>
   <h3>Overview</h3>
 
- <p>
-  <font size = "2">
-As a part of a design course, we were required to create an autonomous robot (which we named 'The SunFinder') under time and budget constraints. The objective of the robot was to navigate a pre-determined grid, marked by black tape, and dispose waste materials inside previously selected bins that were located at the edges of the grid. My primary focus was on designing and implementing the navigation and bin detection software.
-  </font>
-</p>
+ <p><font size = "2">As a part of a design course, we were required to create an autonomous robot (which we named 'The SunFinder') under time and budget constraints. The objective of the robot was to navigate a pre-determined grid, marked by black tape, and dispose waste materials inside previously selected bins that were located at the edges of the grid. My primary focus was on designing and implementing the navigation and bin detection software.</font></p>
 
   <div class = "row">
      <div class = "column">
