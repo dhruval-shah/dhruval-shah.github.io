@@ -22,10 +22,10 @@
   
   <div class = "row">
 		 <div class = "column">
-		  <img src = "Greenlight Innovation Machine.png" width = 350 height = 300>
+		  <img src = "Greenlight Innovation Machine.png" width = 415 height = 350>
 		 </div>
 		  <div class = "column">
-		  <img src = "Greenlight Innovation Machine 1.png" width = 500 height = 450>
+		  <img src = "Greenlight Innovation Machine 1.png" width = 475 height = 450>
 		 </div>
   </div>
 
