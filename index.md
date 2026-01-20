@@ -14,6 +14,13 @@
   <center><img src = "Professional Timeline.png" width = 825 height = 550 style="float:left' width=25%; padding = 10x;"></center>
 
   <h1><b>Industry Projects</b></h1>
+  
+  
+  
+  <h2>Model-Based Systems Engineering (MBSE) - Logical & Physical System Modelling</h2>
+  <p><font size = "2">I conducted logical and physical system modelling in Cameo Systems Modeler, developing SysML behavioral and architectural models with full traceability to IBM DOORS requirements, based on ICDs, SSDDs, PICDs, and installation data. All of the generated models adhered to SysML modelling conventions, and established bidirectional traceability between: Requirements (managed in IBM DOORS), System operations, and Activity Diagrams</font></p>
+  <p><font size = "2">Note: I cannot provide pictures for this project due to Non Disclosure Agreement (NDA) reasons.</font></p>
+  
   <h2>6-DOF Ship Motion Simulation (MATLAB/Simulink)</h2>
   <p><font size = "2">Background Information: MDA Space is the prime integrator of Electronic Warfare (EW) Systems for the Canadian Surface Combatant (CSC) program.</font></p>
   <p><font size = "2">I built a parameterized 6-DOF kinematic ship motion model in MATLAB/Simulink to generate time-domain motion profiles (roll, pitch, yaw, sway, heave, and surge) for inputs to a Laser Warning Countermeasures (LWCM) system.</font></p>
@@ -34,7 +41,7 @@
 		  <img src = "Greenlight Innovation Machine 1.png" width = 475 height = 450>
 		 </div>
   </div>
-  <p><font size = "2">Note: above images can be found on https://www.greenlightinnovation.com/</font></p>
+  <p><font size = "2">Note: above images can be found on: https://www.greenlightinnovation.com/</font></p>
 
   <h1><b>University Projects</b></h1>
   <h2>Tile-Matching Game</h2>
