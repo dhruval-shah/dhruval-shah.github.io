@@ -14,6 +14,7 @@
   <center><img src = "Professional Timeline.png" width = 800 height = 550 style="float:left' width=25%; padding = 10x;"></center>
 
   <h1><b>Industry Projects</b></h1>
+  <h2>Situational Awareness Camera Integration for a Laser Warning Countermeasures System</h2>
   <p><font size = "2">Background Information: MDA Space is the prime integrator of Electronic Warfare (EW) Systems for the Canadian Surface Combatant (CSC) program.</font></p>
   <p><font size = "2">I delivered a production-ready situational awareness camera capability for a Laser Warning Countermeasures System by integrating a third-party GigE Vision software stack into an existing Master Control Unit (MCU). The work reduced technical risk, enabled real-time video display on the HMI, and established diagnostic coverage for operational deployment.</font></p>
   
