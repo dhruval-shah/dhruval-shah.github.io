@@ -28,7 +28,7 @@
 		 </div>
   </div>
   
-  <p><font size = "2">Note: above images are sample representation of actual project, which cannot be displayed due to NDA reasons. These sample images can be found at the following locations: https://www.rivieramm.com/news-content-hub/news-content-hub/smart-bridge-technology-revealed-for-smarter-vessels-56731 and https://automation.omron.com/en/ca/products/family/STGE     </font></p>
+  <p><font size = "2">Note: above images are sample representation of actual project, which cannot be displayed due to Non Disclosure Agreement (NDA) reasons. These sample images can be found at the following locations: https://www.rivieramm.com/news-content-hub/news-content-hub/smart-bridge-technology-revealed-for-smarter-vessels-56731 and https://automation.omron.com/en/ca/products/family/STGE     </font></p>
   <h2>Model-Based Systems Engineering (MBSE) - Logical & Physical System Modelling</h2>
   <p><font size = "2">Background Information: MDA Space is the prime integrator of Electronic Warfare (EW) Systems for the Canadian Surface Combatant (CSC) program.</font></p>
   <p><font size = "2">I conducted logical and physical system modelling in Cameo Systems Modeler, developing SysML behavioral and architectural models with full traceability to IBM DOORS requirements, based on ICDs, SSDDs, PICDs, and installation data. All of the generated models adhered to SysML modelling conventions, and established bidirectional traceability between: Requirements (managed in IBM DOORS), System operations, and Activity Diagrams</font></p>
