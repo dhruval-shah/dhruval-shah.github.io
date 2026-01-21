@@ -33,7 +33,7 @@
   <p><font size = "2">I conducted logical and physical system modelling in Cameo Systems Modeler, developing SysML behavioral and architectural models with full traceability to IBM DOORS requirements, based on ICDs, SSDDs, PICDs, and installation data. All of the generated models adhered to SysML modelling conventions, and established bidirectional traceability between: Requirements (managed in IBM DOORS), System operations, and Activity Diagrams</font></p>
   <p><font size = "2">Note: I cannot provide pictures for this project due to Non Disclosure Agreement (NDA) reasons.</font></p>
   
-  <h2>6-DOF Ship Motion Simulation (MATLAB/Simulink)</h2>
+  <h2>6-DoF Ship Motion Simulation (MATLAB/Simulink)</h2>
   <p><font size = "2">Background Information: MDA Space is the prime integrator of Electronic Warfare (EW) Systems for the Canadian Surface Combatant (CSC) program.</font></p>
   <p><font size = "2">I built a parameterized 6-DoF kinematic ship motion model in MATLAB/Simulink to generate time-domain motion profiles (roll, pitch, yaw, sway, heave, and surge) for inputs to a Laser Warning Countermeasures (LWCM) system.</font></p>
   <center><img src = "Ship Motion Matlab.png" width = 290 height = 250 style="float:left' width=25%; padding = 10x;"></center>
