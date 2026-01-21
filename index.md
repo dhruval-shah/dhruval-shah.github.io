@@ -11,7 +11,7 @@
 <body>
   <h1><b>Professional Timeline</b></h1>
   <p><font size = "2">This outlines my professional career till present time:</font></p>
-  <center><img src = "Professional Timeline.png" width = 825 height = 550 style="float:left' width=25%; padding = 10x;"></center>
+  <center><img src = "Professional Timeline.png" width = 800 height = 550 style="float:left' width=25%; padding = 10x;"></center>
 
   <h1><b>Industry Projects</b></h1>
   <p><font size = "2">Background Information: MDA Space is the prime integrator of Electronic Warfare (EW) Systems for the Canadian Surface Combatant (CSC) program.</font></p>
