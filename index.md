@@ -20,10 +20,10 @@
   <style> .row{display:flex;} .column{margin-right:20px;} </style>
   <div class = "row">
 		 <div class = "column">
-		  <img src = "SA Camera.png" width = 300 height = 245>
+		  <img src = "SA Camera.png" width = 255 height = 200>
 		 </div>
 		  <div class = "column">
-		  <img src = "HMI.png" width = 700 height = 450>
+		  <img src = "HMI.png" width = 750 height = 450>
 		 </div>
   </div>
   
